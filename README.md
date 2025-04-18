@@ -1,2 +1,2 @@
-# Simon_Says_Game
+# Netflix clone
 Project :- Netflix clone
